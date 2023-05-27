@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5355d022c7ba53448695bc2f2167ed3, type: 3}
+  m_Name: RedBall
+  m_EditorClassIdentifier: 
+  ID: 0
+  ItemName: Red Ball
+  Price: 0
+  ItemSprite: {fileID: 21300000, guid: 1a82233b53af6e34c80f2d34d05f000c, type: 3}
+  ItemMaterial: {fileID: 2100000, guid: b8346b40f1ce20f40b3d767a8860b869, type: 2}
